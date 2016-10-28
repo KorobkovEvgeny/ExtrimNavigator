@@ -1,0 +1,10 @@
+.image {
+  position: relative;
+  display: inline-block;
+  margin: 5px;
+}
+.over {
+  position: absolute;
+  top: 0;
+  z-index: 1000;
+}
